@@ -1,0 +1,1 @@
+A simple method that finds smallest missing integer which must be greater than zero, if all numbers are negative then it should return 1
